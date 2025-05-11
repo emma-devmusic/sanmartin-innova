@@ -5,10 +5,7 @@ import { FormsInputs } from '../types/form';
 import { fetchData } from '../services/fetchData';
 import { Button } from './Button';
 import { ResponseApiDing } from '../types/api';
-import { IconsFloating } from './IconsFloating';
 import { useToast } from '../hooks/useToast';
-import { LogoCompleto } from '../assets/svg/LogoCompleto';
-import { LogoTexto } from '../assets/svg/LogoTexto';
 import { IsoLogoColor } from '../assets/svg/IsoLogoColor';
 
 const container = {
